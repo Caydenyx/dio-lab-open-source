@@ -1,42 +1,35 @@
-# Projeto Open Source no GitHub - Contribuição - SIMPLIFICADO
+# Thiago Silva de Souza
 
-Este repositório foi criado com o propósito de fornecer materiais de apoio para o laboratório "Contribuindo em um Projeto Open Source no GitHub" da plataforma [Digital Innovation One](https://www.dio.me/).
+Sou estudante de Sistemas de Informação em busca de expandir meu conhecimento 
+e habilidades na área de tecnologia. Sou curioso e autodidata, sempre em busca de 
+aprendizado e novos jeitos de pensar. Tenho conhecimento em Suporte, Python, 
+SQL, Windows Server, Redes, MySQL, HTML, SQL e AWS. Desejo um ambiente profissional que 
+me permita aplicar e desenvolver minhas hard e soft skills.
 
-## Objetivo
-Aprender conceitos básicos sobre contribuições no GitHub.
+## Conecte-se comigo
 
-## Ferramentas
-- [GitHub](https://docs.github.com/)
-- [Git](https://git-scm.com/doc)
+[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/thiagosoutelosz/)
+[![E-mail](https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:soutelothiago@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagosoutelo/)
 
-## Etapas do Laboratório
-1. **Introdução ao Lab**
-   - [Material de Apoio](link)
-2. **Formas de Contribuir em um Projeto Open Source**
-   - [Material de Apoio](link)
-3. **Desenvolvendo e Enviando uma Contribuição**
-   - [Material de Apoio](link)
-4. **Dicas e Materiais de Apoio**
-   - [Material de Apoio](link)
+## Habilidades
 
-## Desafio: Profile README
-Contribua criando um arquivo Markdown no diretório "Community" com informações sobre você. Adicione badges, estatísticas do GitHub, projetos que criou ou colaborou, e links para seus desafios e artigos na plataforma [Digital Innovation One](https://www.dio.me/). Veja exemplos na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) e utilize sua criatividade.
+### Linguagens de Programação
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
-### Instruções (PT/BR)
-1. Faça um **Fork** deste repositório.
-2. Clone localmente: `git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git`.
-3. Mantenha seu repositório local atualizado com: `git pull upstream main`.
-4. Crie uma nova **branch**: `git checkout -b feat/community/seunomedeusuario`.
-5. Crie um arquivo Markdown na pasta [`community`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/community) com seu nome de usuário no GitHub.
-6. Desenvolva seu perfil, inspire-se em outros exemplos e utilize utilitários da pasta [`utils`](https://github.com/elidianaandrade/dio-lab-open-source/tree/main/utils).
-7. Adicione suas alterações: `git add community/seunomedeusuario.md`.
-8. Crie um commit: `git commit -m"feat: add seunomedeusuario profile"`.
-9. Envie as alterações: `git push origin feat/community/seunomedeusuario`.
-10. Crie um **Pull Request**.
+### Bancos de Dados
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-## Contribuição
-- **Star**: Ajude dando uma estrela ao repositório.
-- **Issues**: Responda, indique ou solucione problemas.
-- **Contribuidores**: Veja quem já contribuiu [aqui](https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors).
+### Servidores e Redes
+[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/cloud-platform/windows-server)
+[![Redes](https://img.shields.io/badge/Redes-FFA500?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
 
-<div align="center">Criado por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+### Cloud
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+### Controle de Versão
+[![Git](https://img.shields.io/badge/Git-E94D5F?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
